@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "9341de76-5d7d-46cd-b023-2293b6656ccf",
+      "name": "Yatharth Shivam",
+      "email": "elorabaruah79@gmail.com",
+      "password": "da96242d7c0e69a11312bbd6c25890f8:e10608d23dad3caed2065e4821a5911a713981b9665719905701e7fa8836f2cc80d136d2f4f51259ce53827c6b3f33c6b724828e003da8983a8a0d65485d1d41",
+      "token": "04b6bb88ebaaa0ac35834a6af9f761472be3774c84e08f4155287abaa1fef47f",
+      "createdAt": "2026-05-02T13:17:30.098Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "9f0d493d-bbb0-416e-ae65-c375d6addf3c",
+      "userId": "9341de76-5d7d-46cd-b023-2293b6656ccf",
+      "action": "Reheat",
+      "timestamp": "2026-05-02T13:17:54.661Z"
+    },
+    {
+      "id": "7f58db81-aabe-4ae3-ad5e-f60ea362cd30",
+      "userId": "9341de76-5d7d-46cd-b023-2293b6656ccf",
+      "action": "Defrost",
+      "timestamp": "2026-05-02T13:21:27.930Z"
+    },
+    {
+      "id": "2054c9a5-df99-462a-b839-494206cd50fa",
+      "userId": "9341de76-5d7d-46cd-b023-2293b6656ccf",
+      "action": "Timer",
+      "timestamp": "2026-05-02T13:23:25.579Z"
+    }
+  ]
+}
